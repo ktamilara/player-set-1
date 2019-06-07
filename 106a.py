@@ -1,4 +1,4 @@
-su,1b=list(map(str,input().split()))
+su,b1=list(map(str,input().split()))
 lis=list(map(int,input().split()))
 c1=0
 for i in lis:
